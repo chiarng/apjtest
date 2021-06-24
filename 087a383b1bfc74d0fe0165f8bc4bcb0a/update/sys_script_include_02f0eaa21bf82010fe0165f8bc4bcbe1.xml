@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>global.pineapple_cake_box_controller</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>pineapple_cake_box_controller</name>
+        <script><![CDATA[var pineapple_cake_box_controller = Class.create();
+pineapple_cake_box_controller.prototype = {
+    initialize: function() {
+    },
+	// add sparkles
+	// jina hooray
+	// more changes yay! k21
+	// apj demo
+    type: 'pineapple_cake_box_controller'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2020-12-03 16:16:22</sys_created_on>
+        <sys_id>02f0eaa21bf82010fe0165f8bc4bcbe1</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>pineapple_cake_box_controller</sys_name>
+        <sys_package display_value="Pineapple Cake Order Management" source="4807de561bb0ac10fe0165f8bc4bcb1d">4807de561bb0ac10fe0165f8bc4bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="apjtest">087a383b1bfc74d0fe0165f8bc4bcb0a</sys_scope>
+        <sys_update_name>sys_script_include_02f0eaa21bf82010fe0165f8bc4bcbe1</sys_update_name>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2021-06-24 02:12:51</sys_updated_on>
+    </sys_script_include>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="apjtest">087a383b1bfc74d0fe0165f8bc4bcb0a</claim_owner_scope>
+        <claim_timestamp>17a3bca9a950000001</claim_timestamp>
+        <metadata_update_name>sys_script_include_02f0eaa21bf82010fe0165f8bc4bcbe1</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>apjtest</previous_claim_name>
+        <previous_claim_scope>087a383b1bfc74d0fe0165f8bc4bcb0a</previous_claim_scope>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2021-06-24 02:12:51</sys_created_on>
+        <sys_id>dbbab0bb1bfc74d0fe0165f8bc4bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2021-06-24 02:12:51</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="apjtest">087a383b1bfc74d0fe0165f8bc4bcb0a</claim_owner_scope>
+        <claim_timestamp>17a3bca9a630000001</claim_timestamp>
+        <metadata_update_name>sys_script_include_02f0eaa21bf82010fe0165f8bc4bcbe1</metadata_update_name>
+        <previous_claim_app_version>7.8.46</previous_claim_app_version>
+        <previous_claim_name>Pineapple Cake Order Management</previous_claim_name>
+        <previous_claim_scope>4807de561bb0ac10fe0165f8bc4bcb1d</previous_claim_scope>
+        <sys_created_by>chiarng.lin@servicenow.com</sys_created_by>
+        <sys_created_on>2021-06-24 02:12:51</sys_created_on>
+        <sys_id>9fbab0bb1bfc74d0fe0165f8bc4bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@servicenow.com</sys_updated_by>
+        <sys_updated_on>2021-06-24 02:12:51</sys_updated_on>
+    </sys_claim>
+</record_update>
